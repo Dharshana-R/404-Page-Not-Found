@@ -115,7 +115,7 @@ footer .who{
         text-align: justify;
         font-family: 'Dongle', sans-serif;
         margin-right: 3rem;
-        
+        letter-spacing: -2rem;
     }
 
     footer .who{
@@ -166,6 +166,7 @@ footer .who{
         font-weight: 300;
         text-align: justify;
         font-family: 'Dongle', sans-serif;
+        letter-spacing: -2rem;
     }
 
     footer .who{
