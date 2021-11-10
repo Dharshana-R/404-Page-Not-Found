@@ -16,12 +16,12 @@ h2 {
 }
 
 
-.img{
+.crow{
     height: 30rem;
     width: 30rem;
 }
 
-.img:hover {
+.crow:hover {
     border: none;
     transform: translatex(7vmin);
 }
@@ -96,7 +96,7 @@ footer .who{
         color:black;
     }
 
-    .img{
+    .crow{
         height: 10rem;
         width: 10rem;
         align-items: center;
@@ -147,7 +147,7 @@ footer .who{
     }
 
     
-    .img{
+    .crow{
         height: 5rem;
         width: 5rem;
         align-items: center;
