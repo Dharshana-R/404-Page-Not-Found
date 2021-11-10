@@ -9,6 +9,10 @@ body{
     display: flex;
 }
 
+nav {
+  padding-block-start: 20px;
+}
+
 .img{
     height: 30rem;
     width: 30rem;
@@ -80,7 +84,8 @@ footer .who{
     }
 
     .container{
-        display:column;
+        display:flex;
+        flex-direction:column;
     }
     
     .img{
