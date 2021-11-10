@@ -91,6 +91,8 @@ footer .who{
     .img{
         height: 10rem;
         width: 10rem;
+        align-items: center;
+        justify-content:center;
     }
 
     h1{
