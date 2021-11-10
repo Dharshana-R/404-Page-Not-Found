@@ -81,7 +81,7 @@ footer .who{
 @media (max-width:  730px){
 
     body{
-        margin-left: 1rem;
+        margin-left: 3rem;
         margin-right: 3rem;
         user-select: none;
     }
@@ -102,6 +102,7 @@ footer .who{
         align-items: center;
         justify-content:center;
         margin-left: 3rem;
+        padding-left:3rem;
     }
 
     h1{
@@ -115,6 +116,7 @@ footer .who{
         text-align: justify;
         font-family: 'Dongle', sans-serif;
         margin-right: 3rem;
+        
     }
 
     footer .who{
