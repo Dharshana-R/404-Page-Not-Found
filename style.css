@@ -80,11 +80,10 @@ footer .who{
     }
 
     .container{
-        display:flex;
+        display:column;
     }
     
     .img{
-        align-items:center;
         height: 10rem;
         width: 10rem;
     }
