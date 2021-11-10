@@ -16,6 +16,7 @@ h2 {
 
 h2 a{
     text-decoration:none;
+    color:grey;
 }
 
 .img{
@@ -132,6 +133,16 @@ footer .who{
 
     .container{
         display:column;
+    }
+    
+    h2 {
+        font-family:Arial, Helvetica, sans-serif;
+        padding-block-start: 20px;
+    }
+
+    h2 a{
+        text-decoration:none;
+        color:grey;
     }
     
     .img{
