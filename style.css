@@ -80,13 +80,13 @@ footer .who{
     }
 
     .container{
-        display:inline;
+        display:flex;
     }
     
     .img{
         align-items:center;
-        height: 5rem;
-        width: 5rem;
+        height: 10rem;
+        width: 10rem;
     }
 
     h1{
@@ -106,5 +106,6 @@ footer .who{
         text-align: center;
         justify-content: center;
         font-size: 1rem;
+        padding-top: 2rem;
     }
 }
