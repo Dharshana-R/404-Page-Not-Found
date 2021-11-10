@@ -134,7 +134,8 @@ footer .who{
     }
 
     .container{
-        display:column;
+        display:flex;
+        flex-direction:column;
     }
     
     h2 {
