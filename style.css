@@ -15,9 +15,6 @@ h2 {
     color:black;
 }
 
-h2 a{
-    text-decoration:none;
-}
 
 .img{
     height: 30rem;
@@ -99,9 +96,6 @@ footer .who{
         color:black;
     }
 
-    h2 a{
-        text-decoration:none;
-    }
     .img{
         height: 10rem;
         width: 10rem;
@@ -149,9 +143,6 @@ footer .who{
         color:black;
     }
 
-    h2 a{
-        text-decoration:none; 
-    }
     
     .img{
         height: 5rem;
