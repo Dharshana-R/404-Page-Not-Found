@@ -98,6 +98,7 @@ footer .who{
         font-weight: 300;
         text-align: justify;
         font-family: 'Dongle', sans-serif;
+        margin-right: 3rem;
     }
 
     footer .who{
@@ -144,6 +145,7 @@ footer .who{
         justify-content: center;
         font-size: 1rem;
         padding-top: 2rem;
+        position: absolute;
     }
 }
 
