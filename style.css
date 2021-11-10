@@ -108,3 +108,42 @@ footer .who{
         padding-top: 2rem;
     }
 }
+
+@media (max-width:  280px){
+
+    body{
+        margin-left: 1rem;
+        margin-right: 3rem;
+        user-select: none;
+    }
+
+    .container{
+        display:column;
+    }
+    
+    .img{
+        height: 5rem;
+        width: 5rem;
+    }
+
+    h1{
+       font-family: 'Creepster', cursive;
+        font-size: 1.5rem;
+        font-weight: 400; 
+    }
+    .rsn{
+        font-size: 2rem;
+        font-weight: 300;
+        text-align: justify;
+        font-family: 'Dongle', sans-serif;
+    }
+
+    footer .who{
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        text-align: center;
+        justify-content: center;
+        font-size: 1rem;
+        padding-top: 2rem;
+    }
+}
+
