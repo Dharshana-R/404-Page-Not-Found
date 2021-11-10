@@ -80,7 +80,7 @@ footer .who{
     }
 
     .container{
-        display:table;
+        display:inline;
     }
     
     .img{
