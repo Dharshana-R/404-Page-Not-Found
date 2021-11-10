@@ -12,11 +12,11 @@ body{
 h2 {
     font-family:Arial, Helvetica, sans-serif;
     padding-block-start: 20px;
+    color:black;
 }
 
 h2 a{
     text-decoration:none;
-    color:grey;
 }
 
 .img{
@@ -93,7 +93,15 @@ footer .who{
         display:flex;
         flex-direction:column;
     }
-    
+    h2 {
+        font-family:Arial, Helvetica, sans-serif;
+        padding-block-start: 20px;
+        color:black;
+    }
+
+    h2 a{
+        text-decoration:none;
+    }
     .img{
         height: 10rem;
         width: 10rem;
@@ -138,11 +146,11 @@ footer .who{
     h2 {
         font-family:Arial, Helvetica, sans-serif;
         padding-block-start: 20px;
+        color:black;
     }
 
     h2 a{
-        text-decoration:none;
-        color:grey;
+        text-decoration:none; 
     }
     
     .img{
