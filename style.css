@@ -102,7 +102,7 @@ footer .who{
     }
 }
 
-@media (max-width:  786px){
+@media (max-width:  730px){
 
     body{
         margin-left: 5rem;
@@ -115,8 +115,8 @@ footer .who{
     }
     
     .img{
-        height: 1rem;
-        width: 1rem;
+        height: 5rem;
+        width: 5rem;
     }
 
     .rsn{
